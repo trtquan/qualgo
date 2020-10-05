@@ -1,0 +1,15 @@
+{
+  "name": "qualgo",
+  "version": "1.0.0",
+  "description": "data structure and algorithm with ts",
+  "main": "index.js",
+  "repository": "git@github.com:trtquan/qualgo.git",
+  "author": "quantran <trtquan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "jest": "^26.4.2",
+    "ts-jest": "^26.4.1",
+    "typescript": "^4.0.3"
+  }
+}
