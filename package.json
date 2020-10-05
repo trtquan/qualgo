@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "data structure and algorithm with ts",
   "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
   "repository": "git@github.com:trtquan/qualgo.git",
   "author": "quantran <trtquan@gmail.com>",
   "license": "MIT",
